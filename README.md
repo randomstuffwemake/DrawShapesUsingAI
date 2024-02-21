@@ -9,11 +9,14 @@ This project is a web-based application for real-time hand gesture recognition u
 - Mirrored display for intuitive interaction.
 
 ## Setup and Usage
-- **Clone the Repository:** `git clone <repository-url>`
+- **Clone the Repository:** `git clone https://github.com/randomstuffwemake/DrawShapesUsingAI/tree/main`
 - **Open in VSCode:** Navigate to the project directory.
 - **Install Live Server:** Use VSCode's extensions marketplace.
 - **Launch the Application:** Right-click `index.html` > "Open with Live Server".
-- **Interact:** Perform hand gestures in front of your webcam. Ensure your webcam is enabled before starting. The application will automatically begin recognizing gestures and allow drawing on the canvas in real-time.
+- **Interact:** Perform hand gestures in front of your webcam. Ensure your webcam is enabled before starting. The application will automatically begin recognizing gestures and allow drawing on the canvas in real time.
+
+## Live Testing
+Experience the project live at [https://randomstuffwemake.github.io/DrawShapesUsingAI/](https://randomstuffwemake.github.io/DrawShapesUsingAI/).
 
 ## Technologies
 - HTML5, CSS3, and JavaScript for the core development.
